@@ -1,0 +1,36 @@
+p,li
+
+   {font-family: 'Anton', sans-serif;
+
+
+}
+h1,h2
+
+   {font-family: 'Diplomata', cursive;
+}
+
+img {
+   height: 300px;
+}
+body
+   {text-align:center;
+
+border-style:dashed;
+
+}
+h1
+   {color:yellow;
+background-color: black;}
+h2
+   {color:white;
+background-color: black;}
+   
+img
+
+   {width:200px;
+   height:200px;
+}
+.ig
+   {width:20px;
+   height:20px;
+}
